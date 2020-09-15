@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFBE6"
+    tools:context=".CreateAccount">
+
+
+    <EditText
+        android:id="@+id/PasswordText"
+        android:layout_width="249dp"
+        android:layout_height="60dp"
+        android:layout_x="76dp"
+        android:layout_y="280dp"
+        android:ems="10"
+        android:hint="Password"
+        android:textColor="#17262A"
+        android:textColorHint="#17262A"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="84dp"
+        tools:layout_editor_absoluteY="280dp" />
+
+    <Button
+        android:id="@+id/CreateAccountButton"
+        android:layout_width="178dp"
+        android:layout_height="69dp"
+        android:layout_x="119dp"
+        android:layout_y="415dp"
+        android:background="#17262A"
+        android:onClick="CreateAccountButtonClick"
+        android:text="Create  Account"
+        android:textColor="#FFFBE6"
+        android:textColorHint="#FFFBE6"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="165dp"
+        tools:layout_editor_absoluteY="428dp" />
+
+    <EditText
+        android:id="@+id/UsernameText"
+        android:layout_width="244dp"
+        android:layout_height="wrap_content"
+        android:layout_x="72dp"
+        android:layout_y="200dp"
+        android:ems="10"
+        android:hint="Username"
+        android:textColor="#17262A"
+        android:textColorHint="#17262A"
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="86dp"
+        tools:layout_editor_absoluteY="212dp" />
+</AbsoluteLayout>

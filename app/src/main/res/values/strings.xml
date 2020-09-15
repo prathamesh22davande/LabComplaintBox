@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">UserLogin</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_queries">QueriesActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+
+    <string-array name="Lab">
+        <item>Lab 1</item>
+        <item>Lab 2</item>
+        <item>Lab 3</item>
+        <item>Lab 4</item>
+        <item>Lab 5</item>
+        <item>Lab 6</item>
+    </string-array>
+
+    <string-array name="Computer">
+        <item>Com 1</item>
+        <item>Com 2</item>
+        <item>Com 3</item>
+        <item>Com 4</item>
+        <item>Com 5</item>
+        <item>Com 6</item>
+        <item>Com 7</item>
+        <item>Com 8</item>
+        <item>Com 9</item>
+        <item>Com 10</item>
+
+    </string-array>
+
+    <string-array name="Device">
+        <item>CPU</item>
+        <item>KEYBOARD</item>
+        <item>MOUSE</item>
+        <item>MONITOR</item>
+        <item>OTHER</item>
+    </string-array>
+    <string name="title_activity_show_all_queries">ShowAllQueriesActivity</string>
+    <string name="title_activity_demo">Demo</string>
+</resources>
